@@ -1,8 +1,10 @@
+import JSBasics from "../components/JSBasics/JSBasics";
+
 export const EXERCICES = [
     {
         key: 1,
         title: "JS Basics",
-        component: <h1>Component here</h1>
+        component: <JSBasics/>
     },
     {
         key: 2,
